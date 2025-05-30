@@ -1549,13 +1549,16 @@ a {
     text-align: center;
   }
 
+  .footer__logo{
+    display: block !important;
+  }
+
   .footer__info_text {
     margin-left: auto;
     margin-right: auto;
   }
 
   .footer__social {
-    justify-content: center;
     margin-bottom: 20px;
   }
 
@@ -1582,6 +1585,10 @@ a {
     margin-right: 0;
     margin-bottom: 10px;
     width: 100%;
+  }
+
+  .footer__menu_title{
+    text-align: center;
   }
 
   .footer__contacts_text{
