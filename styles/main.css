@@ -1587,4 +1587,10 @@ a {
   .footer__contacts_text p{
    margin-bottom: 5px;
   }
+
+  .footer__menu,
+  .footer__contacts {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
 }
