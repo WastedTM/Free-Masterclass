@@ -1417,12 +1417,16 @@ a {
     font-size: 14px;
   }
 
-  .hero {
-    padding-top: 225px;
-  }
-
   .hero__items .item {
     width: 100%;
+  }
+
+  .hero{
+    padding: 250px 0 var(--sp) !important;
+  }
+
+  .hero__title{
+    margin-bottom: 540px;
   }
 
   .hero__form {
